@@ -1,2 +1,2 @@
 # bazy-danych
-Zadania realizowane w ramach przedmiotu "Bazy Danych"
+Zadania realizowane w ramach przedmiotu "Bazy danych"
